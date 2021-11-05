@@ -48,7 +48,7 @@
 <p align="center">
 <a href="https://github.com/Abdulaziz-04">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulaziz-04&hide=prs,contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-	<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Abdulaziz-04" frameborder="0"></iframe>
+	
 </a>
 
 </p>
