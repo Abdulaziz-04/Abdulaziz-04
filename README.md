@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz Suria </h1>
 <h3 align="center">A passionate computer science student from India</h3>
 	
-<p align="center">
+<!---<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdulaziz-04&color=blueviolet&style=flat">
-</p>
+</p> --->
 
 - 🌱 I’m currently learning about **Machine Learning and AI**
 
@@ -48,7 +48,7 @@
 <p align="center">
 <a href="https://github.com/Abdulaziz-04">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulaziz-04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdulaziz-04&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=Abdulaziz-04&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
