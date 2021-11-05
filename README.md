@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Abdulaziz-04?tab=repositories)
 
-- 📫 How to reach me **suria.abdul04@gmail.com**
+- 📫 You can reach me at **suria.abdul04@gmail.com**
 
 
 	
