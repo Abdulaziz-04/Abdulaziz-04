@@ -50,7 +50,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulaziz-04&hide=prs,contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-![image](https://i.postimg.cc/Jnx9Yf5Z/Git-Hub-Profile-Languages-Brave-05-11-2021-21-34-29-2.png)](https://postimg.cc/YG4nhyVC)
+![image](https://i.postimg.cc/Jnx9Yf5Z/Git-Hub-Profile-Languages-Brave-05-11-2021-21-34-29-2.png)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
