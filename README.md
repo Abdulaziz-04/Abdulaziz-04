@@ -48,7 +48,7 @@
 <p align="center">
 <a href="https://github.com/Abdulaziz-04">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulaziz-04&hide=prs,contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Abdulaziz-04&hide=jupyter notebook,shaderlab,hlsl&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Abdulaziz-04&exclude_repo=CCFraudDetector&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 
