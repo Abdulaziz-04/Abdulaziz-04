@@ -47,7 +47,7 @@
 
 <p align="center">
 <a href="https://github.com/Abdulaziz-04">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulaziz-04&hide=prs,contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulaziz-04&hide=prs,contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
 </a>
 	<div align="center">
     <img src="https://i.postimg.cc/Jnx9Yf5Z/Git-Hub-Profile-Languages-Brave-05-11-2021-21-34-29-2.png" width="400px"</img> 
