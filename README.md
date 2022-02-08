@@ -60,6 +60,6 @@
 <p>
 <!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="mailto:suria.abdul04@gmail.com"><img src="https://img.shields.io/badge/-suria.abdul04@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/abdul_aziz_suria"><img src="https://img.shields.io/badge/-@abdul_aziz_suria-1877F2?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdulaziz-suria-060242228"><img src="https://img.shields.io/badge/-Abdulaziz Suria-1877F2?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
