@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at **suria.abdul04@gmail.com**
 
-
+ 
 	
 ### 🛠 &nbsp;Languages and Tools I'm familiar with
 
@@ -63,3 +63,4 @@
 <a href="https://www.linkedin.com/in/abdulaziz-suria-060242228"><img src="https://img.shields.io/badge/-Abdulaziz Suria-1877F2?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
+
