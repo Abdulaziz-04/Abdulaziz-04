@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdulaziz Suria 👋</h1>
-<h3 align="center">Full-stack developer • ML/AI engineer • Systems builder • Research apprentice</h3>
+<h3 align="center">AI/ML Software Engineer • Systems builder • Research apprentice</h3>
 
 <br/>
 
@@ -9,8 +9,8 @@ My work combines **applied machine learning**, **full-stack engineering**, **dis
 - 🎓 MSCS @ Northeastern University  
 - 🤖 Interested in **AI, NLP, vision, distributed systems, game engines, and full-stack design**  
 - 💼 Open to full-time opportunities in **AI/ML, software engineering, backend, or systems roles**  
-- 🌐 Portfolio (in progress): *GitHub Pages version under development*  
-- 📫 Reach me at **suria.abdul04@gmail.com**  
+- 🌐 Portfolio : https://abdulaziz-04.github.io 
+- 📫 Reach me at **abdulaziz.suria04@gmail.com**  
 - 🔗 LinkedIn: [Abdulaziz Suria](https://www.linkedin.com/in/abdulaziz-suria-060242228)
 
 ---
