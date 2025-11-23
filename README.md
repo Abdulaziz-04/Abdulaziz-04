@@ -3,7 +3,7 @@
 
 <br/>
 
-I build things across the stack — from **LLM-driven agents in VR**, **image/vision models**, **search engines**, and **blockchains**, all the way to **compilers**, **backend microservices**, and **Unity gameplay systems**.  
+I build things across the stack - from **LLM-driven agents in VR**, **image/vision models**, **search engines**, and **blockchains**, all the way to **compilers**, **backend microservices**, and **Unity gameplay systems**.  
 My work combines **applied machine learning**, **full-stack engineering**, **distributed systems**, and **research** into solutions that are both useful and fun.
 
 - 🎓 MSCS @ Northeastern University  
