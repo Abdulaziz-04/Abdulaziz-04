@@ -1,88 +1,142 @@
 <h1 align="center">Hi, I'm Abdulaziz Suria 👋</h1>
 <h3 align="center">AI/ML Software Engineer • Systems builder • Research apprentice</h3>
 
-<br/>
+I build across the stack - from **LLM agents and classic ML models** to **full-stack applications, search engines, backend microservices**. I like shipping things that are useful, fast, and a little bit fun.
 
-I build things across the stack - from **LLM-driven agents in VR**, **image/vision models**, **search engines**, and **blockchains**, all the way to **compilers**, **backend microservices**, and **Unity gameplay systems**.  
-My work combines **applied machine learning**, **full-stack engineering**, **distributed systems**, and **research** into solutions that are both useful and fun.
+## Summary
+- I am an applied AI/ML Software Engineer with 2+ years of experience and 2 published research papers, who enjoys experimenting and loves building things.
+- Formerly at Intel and Northeastern University, I have contributed to scalable full-stack web applications, LLM-RAG microservices, and humanoid agents saving 100,000$ annually.
+- My personal projects span developing web/android applications, building NLP/CV models, creating Unity games, and even building my own search engine, cryptocurrency, compilers, and more!
 
+## Background
 - 🎓 MSCS @ Northeastern University  
-- 🤖 Interested in **AI, NLP, vision, distributed systems, game engines, and full-stack design**  
-- 💼 Open to full-time opportunities in **AI/ML, software engineering, backend, or systems roles**  
-- 🌐 Portfolio : https://abdulaziz-04.github.io 
-- 📫 Reach me at **abdulaziz.suria04@gmail.com**  
-- 🔗 LinkedIn: [Abdulaziz Suria](https://www.linkedin.com/in/abdulaziz-suria-060242228)
+- 💼 Open to roles in **AI/ML**, **backend/systems**, or **full-stack**  
+- 📫 **suria.abdul04@gmail.com** · 🔗 **LinkedIn:** [Abdulaziz Suria](https://www.linkedin.com/in/abdulaziz-suria-060242228)
+- 🧰 Portfolio: https://abdulaziz-04.github.io
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-Here’s a snapshot of the kind of projects I build:
+### Web & Software Engineering
+- **Portfolio Analyzer (Java, Swing, MVC/MVVM, GraphQL/REST)** – Flexible portfolios, plans, cost basis, caching, GUI, mock testing.
+- **Collaborative Painter (DLang, SDL, UDP/WebSockets)** – Real-time multi-client canvas + chat, undo/redo, flood-fill speed-ups.
+- **OpsDesk (IT Logger) (React, Node, MongoDB, Docker, AWS EC2)** – Filters, status chips, tech roster, light/dark, CRUD tickets.  
+- **Tiltastic – Tile Visualizer (React, Flask, TensorFlow, AWS)** – Semantic segmentation overlays for home decor; cached masks cut viz time from 60s → 30s.
+- **Accessible Drum Machine (React)** – ARIA labels, keyboard mapping, screen-reader feedback, loop recorder.
+- **Shelfwise – Personal Library (React, Node, GraphQL)** – Notes → BERT summaries, cosine-sim recommendations, per-book categories.
 
-### **🧠 LLMs & AI**
-- Fine-tuned LLMs for horror + fairy-tale story generation (LoRA/PEFT, Falcon, LLaMA)  
-- VR-based humanoid agents with GPT-4 memory retrieval + multimodal interaction (CHI 2024)  
-- Image captioning models (CNN-RNN, ViT-GPT2)  
-- Brain tumor classification with transfer learning  
-- Emotion-to-music desktop application (DeepFace + Tkinter)
 
-### **🛠 Systems & Backend**
-- Custom blockchain with PoW, P2P sync, transaction pool, ECDSA signatures — built from scratch in Node.js  
-- Complete search engine: crawler → indexer → ranker → LTR → spam classifier  
-- Backend microservices suite (shortener, timestamp, whoami, metadata API)  
-- Price notifier with WhatsApp alerts (FastAPI + Twilio)
+### Machine Learning, AI & Computer Vision
+- **LLM Story Generation (Falcon/LLaMA + LoRA/PEFT)** – Genre-conditioned horror & fairy tales; evaluation via sentiment + LDA topics.  
+- **Image Captioning (CNN-RNN & ViT-GPT2)** – Comparative metrics and error modes.
+- **Brain Tumor Classification** – Transfer learning + augmentation over 4 datasets.
+- **Mood Synergizer** – Webcam emotion → curated music; DeepFace + desktop player.
 
-### **👾 Interactive & Games**
-- Unity suite: Glitch Garden, FPS Survivor, Block Breaker, Space Defender  
-- Browser-based Math Garden using TensorFlow.js (digit recognition + adaptive difficulty)  
-- Flutter chat app with Firebase + AWS hosting
+### Backend, Systems & Distributed Computing
+- **BitHeat – Blockchain in Node.js** – PoW, difficulty retarget, ECDSA wallet, mempool, P2P WebSocket sync.  
+- **Full-Stack Search Engine** – Crawl → compressed inverted index → BM25/LM → PageRank/HITS → learning-to-rank → spam filtering.  
+- **From Nand to Tetris** – HDL chips → CPU → assembler → VM → **Jack** compiler in Java.
+- **Backend Microservices Suite (Node, Express)** – URL shortener, timestamp, file metadata, browser whoami; production hardening notes.
+- **Price Notifier w/ WhatsApp (FastAPI, Twilio)** – Checks Amazon prices on a schedule; sends alerts; Dockerized; CSV task list.
 
-### **📚 Research**
-- LLM humanoid agents in Social VR (published at CHI 2024)  
-- Statistical analysis of TA hiring bias (published at SIGCSE 2025)
+### Interactive Applications, Prototypes & Games
+- **Unity Gameplay Suite** – Glitch Garden (lane defense), FPS Survivor (3 weapons + AI), Space Defender (SO waves), Block Breaker.
+- **Math Garden** – Canvas handwriting + TF.js MLP digit recognition with playful growth feedback.
+- **Flutter Chat** – Student chat with Firebase; AWS hosting.
+
+### Research & Experimental
+- **LLM-based Humanoid Agents in Social VR** – CHI 2024 (memory-aware agents, GPT-4, VRChat).  
+- **Statistical Analysis for TA Hiring** – SIGCSE 2025 (Jensen-Shannon distance, t-tests/ANOVA, topic modeling).
 
 ---
 
-## 🧩 Tech I Use
+## 🧩 Skills & Tools (DevIcons)
 
-### **Languages**
-`Python` • `JavaScript` • `TypeScript` • `Java` • `C++` • `C#` • `Dart`
+### Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="38" title="Dart"/>
+</p>
 
-### **Machine Learning & AI**
-`PyTorch` • `TensorFlow` • `Transformers` • `OpenCV` • `Scikit-learn` • `PEFT / LoRA` •  
-`DeepFace` • `ONNX` • `NLP pipelines` • `Vision models` • `AR/VR agents`
+### ML / AI / Data
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="38" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="38" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="38" title="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38" title="pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="38" title="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="38" title="Jupyter"/>
+</p>
 
-### **Backend & Distributed**
-`Node.js` • `FastAPI` • `Flask` • `WebSockets` • `MongoDB` • `PostgreSQL` •  
-`Redis` • `Docker` • `AWS` • `Heroku` • `GraphQL` • `ElasticSearch`
+### Backend & Distributed
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="38" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="38" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="38" title="GraphQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="38" title="ElasticSearch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="38" title="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="38" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="38" title="Heroku"/>
+</p>
 
-### **Frontend & Apps**
-`React` • `Flutter` • `HTML` • `CSS / SASS` • `Bootstrap` • `JS Canvas`
+### Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="38" title="SQLite"/>
+</p>
 
-### **Game Development**
-`Unity` • `C#` • `NavMesh` • `Animator` • `ScriptableObjects` • `Lighting/particles`
+### Frontend & Apps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="38" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="38" title="jQuery"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="38" title="Flutter"/>
+</p>
 
-### **Tools**
-`Git` • `Linux` • `VSCode` • `Vim` • `Figma` • `Postman`
+### Game Dev & Engines
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="38" title="Unity"/>
+</p>
+
+### Tooling & OS
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="38" title="Vim"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="38" title="Postman"/>
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulaziz-04&hide=prs,contribs&show_icons=true&theme=radical&include_all_commits=true"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
-
+## 🤝 Connect
 <p>
-<a href="mailto:suria.abdul04@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/abdulaziz-suria-060242228">
-  <img src="https://img.shields.io/badge/-LinkedIn-1877F2?style=flat&logo=Linkedin&logoColor=white"/>
-</a>
+  <a href="mailto:suria.abdul04@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdulaziz-suria-060242228">
+    <img src="https://img.shields.io/badge/-LinkedIn-1877F2?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
 </p>
-
