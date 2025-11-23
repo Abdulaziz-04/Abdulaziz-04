@@ -1,63 +1,88 @@
-<h1 align="center">Hi 👋, I'm Abdulaziz Suria </h1>
-<h3 align="center">A passionate computer science student from India</h3>
-	
-<!---<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdulaziz-04&color=blueviolet&style=flat">
-</p> --->
+<h1 align="center">Hi, I'm Abdulaziz Suria 👋</h1>
+<h3 align="center">Full-stack developer • ML/AI engineer • Systems builder • Research apprentice</h3>
 
-- 🌱 I’m currently learning about **Machine Learning and AI**
-
-- 👨‍💻 All of my projects are available at [github](https://github.com/Abdulaziz-04?tab=repositories)
-
-- 📫 You can reach me at **suria.abdul04@gmail.com**
-
- 
-	
-### 🛠 &nbsp;Languages and Tools I'm familiar with
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-61DAFB?style=for-the-badge&logo=csharp&logoColor=000)
-<br>
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-38B2AC?style=for-the-badge&logo=bootstrap&logoColor=white)
-<br>
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-0078D6?style=for-the-badge&logo=graphql&logoColor=ffffff)
-![Unity](https://img.shields.io/badge/-Unity-6082B6?style=for-the-badge&logo=unity&logoColor=ffffff)
-<br>
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
-![Vim](https://img.shields.io/badge/-vim-4EA94B?style=for-the-badge&logo=vim&logoColor=000)
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
+I build things across the stack — from **LLM-driven agents in VR**, **image/vision models**, **search engines**, and **blockchains**, all the way to **compilers**, **backend microservices**, and **Unity gameplay systems**.  
+My work combines **applied machine learning**, **full-stack engineering**, **distributed systems**, and **research** into solutions that are both useful and fun.
+
+- 🎓 MSCS @ Northeastern University  
+- 🤖 Interested in **AI, NLP, vision, distributed systems, game engines, and full-stack design**  
+- 💼 Open to full-time opportunities in **AI/ML, software engineering, backend, or systems roles**  
+- 🌐 Portfolio (in progress): *GitHub Pages version under development*  
+- 📫 Reach me at **suria.abdul04@gmail.com**  
+- 🔗 LinkedIn: [Abdulaziz Suria](https://www.linkedin.com/in/abdulaziz-suria-060242228)
+
+---
+
+## 🚀 Featured Work
+
+Here’s a snapshot of the kind of projects I build:
+
+### **🧠 LLMs & AI**
+- Fine-tuned LLMs for horror + fairy-tale story generation (LoRA/PEFT, Falcon, LLaMA)  
+- VR-based humanoid agents with GPT-4 memory retrieval + multimodal interaction (CHI 2024)  
+- Image captioning models (CNN-RNN, ViT-GPT2)  
+- Brain tumor classification with transfer learning  
+- Emotion-to-music desktop application (DeepFace + Tkinter)
+
+### **🛠 Systems & Backend**
+- Custom blockchain with PoW, P2P sync, transaction pool, ECDSA signatures — built from scratch in Node.js  
+- Complete search engine: crawler → indexer → ranker → LTR → spam classifier  
+- Backend microservices suite (shortener, timestamp, whoami, metadata API)  
+- Price notifier with WhatsApp alerts (FastAPI + Twilio)
+
+### **👾 Interactive & Games**
+- Unity suite: Glitch Garden, FPS Survivor, Block Breaker, Space Defender  
+- Browser-based Math Garden using TensorFlow.js (digit recognition + adaptive difficulty)  
+- Flutter chat app with Firebase + AWS hosting
+
+### **📚 Research**
+- LLM humanoid agents in Social VR (published at CHI 2024)  
+- Statistical analysis of TA hiring bias (published at SIGCSE 2025)
+
+---
+
+## 🧩 Tech I Use
+
+### **Languages**
+`Python` • `JavaScript` • `TypeScript` • `Java` • `C++` • `C#` • `Dart`
+
+### **Machine Learning & AI**
+`PyTorch` • `TensorFlow` • `Transformers` • `OpenCV` • `Scikit-learn` • `PEFT / LoRA` •  
+`DeepFace` • `ONNX` • `NLP pipelines` • `Vision models` • `AR/VR agents`
+
+### **Backend & Distributed**
+`Node.js` • `FastAPI` • `Flask` • `WebSockets` • `MongoDB` • `PostgreSQL` •  
+`Redis` • `Docker` • `AWS` • `Heroku` • `GraphQL` • `ElasticSearch`
+
+### **Frontend & Apps**
+`React` • `Flutter` • `HTML` • `CSS / SASS` • `Bootstrap` • `JS Canvas`
+
+### **Game Development**
+`Unity` • `C#` • `NavMesh` • `Animator` • `ScriptableObjects` • `Lighting/particles`
+
+### **Tools**
+`Git` • `Linux` • `VSCode` • `Vim` • `Figma` • `Postman`
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Abdulaziz-04">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulaziz-04&hide=prs,contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-</a>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulaziz-04&hide=prs,contribs&show_icons=true&theme=radical&include_all_commits=true"/>
 </p>
 
+---
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝 Connect With Me
 
 <p>
-<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="mailto:suria.abdul04@gmail.com"><img src="https://img.shields.io/badge/-suria.abdul04@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abdulaziz-suria-060242228"><img src="https://img.shields.io/badge/-Abdulaziz Suria-1877F2?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:suria.abdul04@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/abdulaziz-suria-060242228">
+  <img src="https://img.shields.io/badge/-LinkedIn-1877F2?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
 </p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
 
